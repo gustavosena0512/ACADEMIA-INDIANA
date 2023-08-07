@@ -6,7 +6,7 @@
 $numero1 = 7;
 $numero2 = 27;
 
-echo ('exercio 1');
+echo ('exercicio 1');
 echo("<BR>");
 echo("<BR>");
 
@@ -22,7 +22,7 @@ echo("<BR>");
 //2- Crie um script em PHP que crie um vetor de 5 elementos inteiros com valores aleatórios,
 //entre 0 e 10. Encontre e mostre o menor elemento e sua posição no vetor.
 
-echo ('exercio 2');
+echo ('exercicio 2');
 echo("<BR>");
 echo("<BR>");
 
@@ -49,7 +49,7 @@ echo("<BR>");
 //Faça a soma dos elementos de mesmo índice, colocando o resultado em um terceiro vetor.
 //Imprima os três vetores, um após o outro. Obs: Utilize um for
 echo("<BR>");
-echo ('exercio 3');
+echo ('exercicio 3');
 echo("<BR>");
 echo("<BR>");
 
@@ -72,7 +72,7 @@ echo "Soma dos indices será igual a: " . implode(', ', $soma);
 
 echo("<BR>");
 echo("<BR>");
-echo ('exercio 4');
+echo ('exercicio 4');
 echo("<BR>");
 echo("<BR>");
 //4- Seu salário atual é de R$5.000,00. O do seu colega é de R$2.500,00. Suponha que você
